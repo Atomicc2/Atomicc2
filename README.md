@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Anderson!
+🎓 Student of Information Systems at UFS  
+💻 Passionate about Programming and Technology  
+🚀 Currently learning Python and GitHub  
 
-<!--
-**Atomicc2/Atomicc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools  
+- 🐍 Python | 📝 Markdown | 💾 Git/GitHub  
+- 💡 Learning: JavaScript & SQL  
 
-Here are some ideas to get you started:
+## 🌟 Projects  
+- 🎯 [EchoLoto](https://github.com/Atomicc2/EchoLoto) – Lottery Simulation Game  
+- 📝 More projects coming soon...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Andinho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical)  
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
+📧 andersonacpemp@gmail.com
