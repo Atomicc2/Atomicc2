@@ -21,7 +21,7 @@
 📧 andersonacpemp@gmail.com  
 
 ---
-### 🇺🇸 **About Me (EN)**  
+###  **About Me (EN)**  
 🎓 Student of Information Systems at UFS  
 💻 Passionate about Programming and Technology  
 🚀 Currently learning Python and GitHub  
