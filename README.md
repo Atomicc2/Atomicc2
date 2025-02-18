@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Andinho! | Hello, I'm Andinho!
+# 👋 Oieeee, Anderson aqui! | Hello, I'm Anderson!
 
 ---
 ### 🇧🇷 **Sobre mim (PT-BR)**  
