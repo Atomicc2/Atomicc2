@@ -1,7 +1,7 @@
 # 👋 Oieeee, Anderson aqui! | Hello, I'm Anderson!
 
 ---
-### 🇧🇷 **Sobre mim (PT-BR)**  
+### **Sobre mim (PT-BR)**  
 🎓 Estudante de Sistemas de Informação na UFS  
 💻 Apaixonado por Programação e Tecnologia  
 🚀 Atualmente aprendendo Python e GitHub  
