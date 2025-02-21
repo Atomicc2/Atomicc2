@@ -4,14 +4,13 @@
 ### **Sobre mim (PT-BR)**  
 🎓 Estudante de Sistemas de Informação na UFS  
 💻 Apaixonado por Programação e Tecnologia  
-🚀 Atualmente aprendendo Python e GitHub  
+🚀 Atualmente aprendendo Python  
 
 #### 🛠️ Tecnologias e Ferramentas  
 - 🐍 Python | 📝 Markdown | 💾 Git/GitHub  
-- 💡 Aprendendo: JavaScript e SQL  
 
 #### 🌟 Projetos  
-- 🎯 [EchoLoto](https://github.com/Atomicc2/EchoLoto) – Jogo de Simulação de Loteria  
+- 🎯 [EchoLoto](https://github.com/Atomicc2/EchoLoto) – Jogo de Simulação de Loteria 
 - 📝 Mais projetos em breve...  
 
 #### 📊 Estatísticas do GitHub  
@@ -24,11 +23,10 @@
 ###  **About Me (EN)**  
 🎓 Student of Information Systems at UFS  
 💻 Passionate about Programming and Technology  
-🚀 Currently learning Python and GitHub  
+🚀 Currently learning Python
 
 #### 🛠️ Technologies & Tools  
-- 🐍 Python | 📝 Markdown | 💾 Git/GitHub  
-- 💡 Learning: JavaScript & SQL  
+- 🐍 Python | 📝 Markdown | 💾 Git/GitHub   
 
 #### 🌟 Projects  
 - 🎯 [EchoLoto](https://github.com/Atomicc2/EchoLoto) – Lottery Simulation Game  
