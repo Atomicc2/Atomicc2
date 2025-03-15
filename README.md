@@ -1,52 +1,72 @@
-# Anderson | Developer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Anderson S.
 
-## 👨‍💻 About Me
-Hi there! I'm Anderson, Future backend dev!!
+> "My code doesn't have bugs. It just develops random unexpected features." 😂
 
-## 🛠 Technologies I Use
-- **Python**  
-- **SQL**  
-- **Git/GitHub**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+Enthusiast;SQL+Wizard&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</div>
 
-## 🚀 Projects
-### 🔥 [EchoLoto](https://github.com/Atomicc2/EchoLoto)  
-A fun lottery game built with Python.  
-### 📚 [Library Management System](https://github.com/Atomicc2/LibraryManagementSystem)  
-A system to manage library books, created using Python.  
+## 🚀 About Me
+
+Backend developer passionate about creating efficient and scalable solutions. When I'm not debugging code, I'm probably debugging my life (with varying success rates).
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
+## 🏆 Projects
+
+### 🔥 Task Manager App
+A productivity application that helps users manage their tasks efficiently.
+
+### 📚 Personal Library
+A digital library management system that helps organize book collections.
+
+### 🎮 Guessing Game
+An interactive game where players try to guess a randomly selected number.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical)
 
-## 📫 Contact Me
-Feel free to reach out to me via:
-- 📧 **Email**: andersonacpemp@gmail.com  
-- 🖥️ **GitHub**: [@Atomicc2](https://github.com/Atomicc2)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🔄 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOURUSERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOURUSERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 ---
 
-## 👨‍💻 Sobre Mim
-Olá! Eu sou Anderson, Futuro dev backend!!
-
-## 🛠 Tecnologias que Eu Uso 
-- **Python**  
-- **SQL**  
-- **Git/GitHub**  
-
-## 🚀 Projetos
-### 🔥 [EchoLoto](https://github.com/Atomicc2/EchoLoto)  
-Um jogo de loteria divertido desenvolvido com Python.  
-### 📚 [Sistema de Gestão de Biblioteca](https://github.com/Atomicc2/LibraryManagementSystem)  
-Um sistema para gerenciar livros de uma biblioteca, criado em Python.
-
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical)
-
-## 📫 Entre em Contato
-Fique à vontade para entrar em contato comigo via:
-- 📧 **Email**: andersonacpemp@gmail.com  
-- 🖥️ **GitHub**: [@Atomicc2](https://github.com/Atomicc2)  
-
----
-
-**"Turning ideas into code."**  
-**"Transformando ideias em código."**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%">
+</div>
