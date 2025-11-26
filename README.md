@@ -52,14 +52,6 @@ A classic Peg Solitaire game implemented digitally, offering strategic puzzle ga
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📧 Contact Me
-
-<div align="center">
-  <a href="mailto:andersonacpemp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Atomicc2&style=flat-square&color=blue" alt="Profile Views" />
 </div>
