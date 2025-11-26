@@ -27,7 +27,6 @@ Backend developer passionate about creating efficient and scalable solutions. Wh
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-
 ## 🔥 Task Manager App
 
 A productivity application that helps users manage their tasks efficiently.
@@ -44,12 +43,8 @@ A clean and responsive landing page built using Angular.
 
 A classic Peg Solitaire game implemented digitally, offering strategic puzzle gameplay where the goal is to leave only one piece on the board.
 
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 <div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-
