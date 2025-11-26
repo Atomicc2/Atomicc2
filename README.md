@@ -44,6 +44,7 @@ A clean and responsive landing page built using Angular.
 
 A classic Peg Solitaire game implemented digitally, offering strategic puzzle gameplay where the goal is to leave only one piece on the board.
 
+<!-- Primary (recommended mirror) -->
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
@@ -52,12 +53,15 @@ A classic Peg Solitaire game implemented digitally, offering strategic puzzle ga
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<!-- Backup mirror -->
+<!-- If primary fails, try these -->
+<!--
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atomicc2&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical" alt="GitHub Stats (backup)" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&theme=radical" alt="Top Languages (backup)" />
 </div>
+-->
+
