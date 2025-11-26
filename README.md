@@ -28,18 +28,21 @@ Backend developer passionate about creating efficient and scalable solutions. Wh
 </div>
 
 
-## 🏆 Projects
+## 🔥 Task Manager App
 
-### 🔥 Task Manager App
 A productivity application that helps users manage their tasks efficiently.
 
-### 📚 Personal Library
+## 📚 Personal Library
+
 A digital library management system that helps organize book collections.
 
-### 🎮 Guessing Game
-An interactive game where players try to guess a randomly selected number.
+## 🌐 Landing Page (Angular)
 
-## 📊 GitHub Stats
+A clean and responsive landing page built using Angular.
+
+## 🎯 Resta Um
+
+A classic Peg Solitaire game implemented digitally, offering strategic puzzle gameplay where the goal is to leave only one piece on the board.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=radical" alt="GitHub Stats" />
