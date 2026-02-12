@@ -3,7 +3,7 @@
 > "Meu código não tem bugs. Ele apenas desenvolve recursos inesperados aleatórios." 😂
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Backend;Entusiasta+de+Python;Mago+do+SQL&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+com+Spring+Boot;Frontend+com+React;Arquiteto+de+Soluções+AWS;Transformando+Café+em+API&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </div>
 
 ## 🚀 Sobre Mim
