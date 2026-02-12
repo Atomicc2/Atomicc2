@@ -48,3 +48,17 @@ O clássico jogo Resta Um (Peg Solitaire) implementado digitalmente, oferecendo 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atomicc2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180" />
 </p>
+
+---
+
+## 🐍 Jogo da Cobrinha
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Atomicc2/Atomicc2/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha">
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atomicc2&theme=dracula" alt="GitHub Streak" />
+</div>
