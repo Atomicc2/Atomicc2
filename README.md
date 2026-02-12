@@ -51,10 +51,6 @@ O clássico jogo Resta Um (Peg Solitaire) implementado digitalmente, oferecendo 
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Atomicc2/Atomicc2/output/github-contribution-grid-snake.svg">
-</div>
-
 ## 🔥 GitHub Streak
 
 <div align="center">
