@@ -1,14 +1,14 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Anderson S.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou o Anderson S.
 
-> "My code doesn't have bugs. It just develops random unexpected features." 😂
+> "Meu código não tem bugs. Ele apenas desenvolve recursos inesperados aleatórios." 😂
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+Enthusiast;SQL+Wizard&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Backend;Entusiasta+de+Python;Mago+do+SQL&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-Backend developer passionate about creating efficient and scalable solutions. When I'm not debugging code, I'm probably debugging my life (with varying success rates).
+Desenvolvedor Backend apaixonado por criar soluções eficientes e escaláveis. Quando não estou debugando código, provavelmente estou tentando debugar minha vida (com taxas de sucesso variáveis).
 
 ## 💻 Tech Stack
 
@@ -18,6 +18,7 @@ Backend developer passionate about creating efficient and scalable solutions. Wh
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -27,24 +28,23 @@ Backend developer passionate about creating efficient and scalable solutions. Wh
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-## 🔥 Task Manager App
+## 🔥 Event Tec API
+Uma API desenvolvida com **Spring Boot** para servir como backend de uma aplicação robusta, com deploy realizado e rodando em um servidor **AWS**.
 
-A productivity application that helps users manage their tasks efficiently.
-
-## 📚 Personal Library
-
-A digital library management system that helps organize book collections.
+## 📧 Email Service
+Front-end de uma aplicação de gerenciamento de e-mails desenvolvida em **React** utilizando **TypeScript** para garantir maior consistência e segurança no código.
 
 ## 🌐 Landing Page (Angular)
-
-A clean and responsive landing page built using Angular.
+Uma landing page limpa e responsiva construída utilizando Angular.
 
 ## 🎯 Resta Um
+O clássico jogo Resta Um (Peg Solitaire) implementado digitalmente, oferecendo um gameplay estratégico onde o objetivo é deixar apenas uma peça no tabuleiro.
 
-A classic Peg Solitaire game implemented digitally, offering strategic puzzle gameplay where the goal is to leave only one piece on the board.
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&count_private=true)
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicc2&layout=compact)
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&langs_count=7&theme=dracula" />
+</div>
