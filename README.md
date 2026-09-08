@@ -45,14 +45,13 @@ O clássico jogo Resta Um (Peg Solitaire) implementado digitalmente, oferecendo 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180" />
+  <img src="stats.svg" alt="Estatísticas do GitHub" height="180" />
+  <img src="top-langs.svg" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atomicc2&theme=dracula" alt="GitHub Streak" />
+  <img src="streak.svg" alt="GitHub Streak" />
 </div>
