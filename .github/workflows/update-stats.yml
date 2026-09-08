@@ -5,13 +5,14 @@ on:
     - cron: '0 * * * *'   # roda a cada 1 hora
   workflow_dispatch:        # permite rodar manualmente
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Baixar estatísticas
         run: |
