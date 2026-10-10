@@ -169,10 +169,10 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
   <a href="https://github.com/Atomicc2">
     <img src="https://img.shields.io/badge/GitHub-Atomicc2-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:andersonacpemp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/anderson-santana-b99896351">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
